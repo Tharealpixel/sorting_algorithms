@@ -1,2 +1,1 @@
-# sorting_algorithms
-my eyes r dead from this and ears too
+# Solution to tasks on Sorting algorithms
